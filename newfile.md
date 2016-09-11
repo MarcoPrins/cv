@@ -92,17 +92,6 @@ My work at Prodigy so far has included:
 * Helping a lot with large-scale code refactors, extractions into separate applications, optimizations and structural improvements in an extremely fast-growing application and environment
 * Helping with Quality Assurance and Code Reviews
 
-
-## Things that I ❤ and give me a warm fuzzy feeling inside
-
-* Ruby
-* Scalable, readable, clear and simple code
-* Seeing an automated test on the other side of the app fail for exactly the reason that I put it there in the first place, and then thinking *Yessssss, that's why I wrote that test in the first place. In case that happens.*
-* When I work on something and I notice how much a previous refactor, or decision I made for scalability makes what I'm doing easier. And then going *Yesssss, that was a nice one*
-* When you notice a small config thing that's caused the whole test suite to be a lot slower, and you throw a PR that slows down the build by 3 minutes
-* Nailing a 5 pointer in one day without any problems
-* Looking at the product I work on and feeling smug
-
 ## Summary of skills
 
 ### Very good:
@@ -151,7 +140,7 @@ Here are my grades from matric:
 
 ```ruby
 grades = {
-  matematics:                       81, # Proper maths of course (not math lit.)
+  matematics:                       81,
   engineering_graphics_and_design:  77,
   afrikaans_home_language:          65,
   english_home_language:            65,
