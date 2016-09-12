@@ -1,7 +1,6 @@
 # Curicculum Vitae for Marco Prins
 
-*Last updated 30 August 2016*
-
+*Last updated 11 September 2016*
 
 ## Basic info
 
@@ -16,11 +15,16 @@ basic_info = {
   phone:             "074 581 2845",
   rails_experience:  (2.years + 10.months)
 }
+
+links = {
+  stackoverflow:     "http://stackoverflow.com/users/2923108/marco-prins",
+  facebook:          "https://www.facebook.com/marco.el.presideno"
+}
 ```
 
 ## A brief introduction
 
-I am a Rails developer.
+I am a Rails developer. Keen guitarist. Love nature & the outdoors. Afrikaans.
 
 ## Work experience
 
@@ -71,7 +75,7 @@ On the frontend side we used the standard stuff - jQuery, a bit of CoffeeScript.
 <br>
 ***Website: https://prodigyfinance.com***
 
-Prodigy has been a whole new experience. I started out in a team of about 7 developers and just under 40 people in the whole company. Within 8 months the development team grew to 17 people, and the company to a 100. The dev team was split into two teams of 8 and 10 members (with one member in both teams, following a guild structure). I'm part of the smaller team (7 members), the "backspace" team - mainly focussing on backend structure and owning all independent API services. We still do a lot of front-end for the admin interfaces for the external apps.
+Prodigy has been a whole new experience. I started out in a team of about 7 developers and just under 40 people in the whole company. Within 8 months the development team grew to 17 people, and the company to a 100. The dev team was split into two teams of 8 and 10 members (with one member in both teams, following a guild structure). I'm part of the smaller team (8 members), the "backspace" team - mainly focussing on backend structure and owning all independent API services. We still do a lot of front-end for the admin interfaces for the external apps.
 <br>
 In 8 months I've learnt a whole new side to development. I've got completely stuck into SCRUM and agile development. Gotten used to structured communication, continuous integration and being a moving part of a bigger machine.
 <br>
@@ -110,7 +114,7 @@ My work at Prodigy so far has included:
 * HTTP(S), Network communication, JSON, API's, Auth, etc..
 * Amazon S3 and s3cmd
 * Continuous Integration
-* Scrum
+* Scrum / Agile
 
 ### Good:
 
@@ -159,4 +163,4 @@ Here are my passed subjects so far from my (still unfinished) BSc CompSci degree
 * Physics `114`
 * Music Technology `114`
 
-I'd like to continue studying through UNISA some time. But after I dropped out (because of financial reasons) my career has gone pretty well without having the degree, so maybe I won't finish. Or maybe I will. Because $$ became $$$. Who knows. All depends on that salary hey ;)
+I dropped out because of financial reasons. I'd like to continue studying through UNISA some time
