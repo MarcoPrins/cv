@@ -6,6 +6,7 @@ Luan
 149.71	   krag Jul
 85.00     sushi
 265.06    krag Aug
+192.55    krag Sep
 
 Pierre
 164.76   krag - Mei
@@ -14,6 +15,8 @@ Pierre
 320.54   krag Jun + mechanic
 149.71   krag Jul
 265.06	  krag Aug
+150       pot
+192.55    krag Sep
 
 Wilro
 200     leen
