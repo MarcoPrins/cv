@@ -8,6 +8,7 @@ Luan
 265.06    krag Aug
 192.55    krag Sep
 175.67    krag Okt
+156.29    krag Nov
 
 Pierre
 164.76   krag - Mei
@@ -19,6 +20,7 @@ Pierre
 150       pot
 192.55    krag Sep
 175.67    krag Okt
+156.29    krag Nov
 
 Wilro
 200     leen
